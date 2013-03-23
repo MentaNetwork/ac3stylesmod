@@ -1,0 +1,47 @@
+body, #statusbar_item_branding a.first_level_item {background-color:#163043}
+div.filter_criteria div.filter_criteria_head {background:#c8d5a6}
+div.filter_criteria div.filter_criteria_body {background:#edf0dd}
+#wireframe_breadcrumbs {background-color:#b8ca7d}
+#wireframe_page_tabs ul#page_tabs li a.current {background-color:#b8ca7d;color: #1b1b1b;text-shadow:0 1px 1px #d3e0a5;
+background: #dedcb8 url(/public/assets/images/menta_styles/default/menta-top-tabs-selected.png) repeat-x left 0;
+border-bottom: 1px solid #b8ca7d;border-left: 1px solid #b8ca7d;border-right: 1px solid #b8ca7d;border-top: 1px solid #b7d04f;}
+div.objects_list_wrapper div.objects_list {background: #edf0dd}
+a {color:#9fa7ad}
+#wireframe_main_container a, .flyout_dialog_content a {color: #06a}
+.bottom_options span.badge {background:#b4d44e;color:#2d4000}
+#wireframe_menu li.current a .icon {background:#2a3e4a url(/public/assets/images/menta_styles/default/menta-item-selected.png);border-top-color:#394f5f;border-bottom-color:#41596a}
+#wireframe_menu li.current:hover .label {background:#2a3e4a url(/public/assets/images/menta_styles/default/menta-item-selected.png) repeat-x left bottom;border-top: 1px solid #394f5f}
+#global_search input {background-color:#506779}
+div.objects_list_wrapper div.objects_list_head div.object_list_filter input {background:#eee}
+#global_search_autocomplete { background: #e1edb1;color:#7d8d5e}
+#global_search_autocomplete_advanced {background: #dae2af}
+div.objects_list_wrapper div.objects_list_head {border-right: 1px solid #a9b87b; background-color: #c3cea4;border-bottom: 1px solid #a9b87b;}
+div.objects_list_wrapper div.objects_list div.objects_list_body div.object_list_group div.object_list_group_head {border-top: 1px solid #dee4ca; border-bottom: 3px double #cdd5b8;background:#c9d7a0;text-shadow: 0 1px 1px #fff}
+div.objects_list_wrapper div.objects_list div.objects_list_body div.object_list_group div.object_list_group_head.clickable {color: #4d6305;}
+div.objects_list_wrapper div.objects_list div.objects_list_body tr.selected td {border-top: 1px solid #89a648!important;
+border-bottom: 1px solid #89a648!important;color: #FFF!important;background-color: #97b259!important;text-shadow: #6c872e 0 1px;}
+#calendar .calendar_table_wrapper table.calendar td.today {background: #edf5da!important;outline-color: #ddefae!important;}
+.calendar_day_container_title {background: #f1f7e4;border-bottom: 1px solid #dfedc1;}
+div.objects_list_wrapper div.objects_list div.objects_list_body div.object_list_group div.object_list_group_head.selected {border-top: 1px solid #728836!important;border-bottom: 3px double #728836!important;color: #FFF!important;background-color: #728836!important;text-shadow: #5e7227 0 1px;}
+body.backend_login {background: #ddd}
+.ui-mobile #global_search input {background-color:transparent}
+body.phone .ui-page, .ui-mobile .ui-content {background-color: #eee;}
+body.phone div.wireframe_breadcrumbs {
+color: #4a650d;
+font-size: 25px;
+padding: 0 16px;
+text-align: left;
+background: #bbd67d;
+height: 57px;
+border-top: solid white .5px;
+border-bottom: solid #a7c16b .5px;
+background-image: -webkit-gradient(linear,left top,left bottom,from(#c8e38a),to(#afca71));
+background-image: -webkit-linear-gradient(top,#c8e38a,#afca71);
+background-image: -moz-linear-gradient(top,#c8e38a,#afca71);
+background-image: -ms-linear-gradient(top,#c8e38a,#afca71);
+background-image: -o-linear-gradient(top,#c8e38a,#afca71);
+background-image: linear-gradient(top,#c8e38a,#afca71);}
+.ui-mobile .quick_search {background-image:url(/public/assets/images/menta_styles/default/menta-graySearch-background.png)}
+.ui-mobile .ui-input-search {background-color: #f6f6f6;border: 2px solid #aaa}
+.ui-header .ui-title, .ui-bar-j {color:#444;text-shadow:1px 1px 0 #ddd}
+html.loading body div#page_preloader div#page_preloader_progressbar {background: url('/public/assets/images/menta_styles/default/loaderbar.gif') no-repeat center center;}
